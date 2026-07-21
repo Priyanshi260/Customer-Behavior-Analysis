@@ -162,6 +162,6 @@ Customer-Behavior-Analysis/
 
 ## Author
 
-**Your Name**
+**Priyanshi Jindal**
 
 Data Analytics Project | Python • MySQL • Power BI
